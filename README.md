@@ -21,7 +21,7 @@ Make sure you have the following installed on your system
     * `username=# GRANT ALL PRIVILEGES ON DATABASE django_vuejs_heroku_starter to django_vuejs_heroku_starter_user;`
     * `username=# \q`
 * Create a Python virtualenv
-    * pyenv virtualenv 3.6.1 django-vuejs-heroku-starter-3.6.1
+    * `$ pyenv virtualenv 3.6.1 django-vuejs-heroku-starter-3.6.1`
 
 ## Development
 
