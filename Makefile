@@ -27,7 +27,7 @@ migrate:
 build: prod migrate clean
 	npm run build
 
-# Cleans up folder by removing virtual environment, node modules and generated files.
+# Cleans up the static/dist folder
 clean:
 	rm -rf static/dist
 
