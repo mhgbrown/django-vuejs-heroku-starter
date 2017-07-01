@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+npm-debug.log
+.idea
+.venv
+db.sqlite3
+__pycache__

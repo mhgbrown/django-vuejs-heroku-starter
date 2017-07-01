@@ -1,0 +1,9 @@
+Django==1.11.2
+django-webpack-loader==0.5.0
+flake8
+psycopg2>=2.7,<2.8
+dj-database-url==0.4.2
+gunicorn==19.7.1
+whitenoise==3.3.0
+celery[redis]==4.0.2
+ipython==6.1.0
